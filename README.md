@@ -14,5 +14,8 @@ A responsive landing page with an interactive navigation menu that changes style
 - CSS
 - JavaScript
 
+## Live Demo
+🔗 https://mohammednafi9720.github.io/SCT_WD_1/
+
 ## Author
 Mohammed Nafi E P
